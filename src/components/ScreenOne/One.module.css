@@ -1,0 +1,14 @@
+.button {
+  background-color: #9100fd !important;
+  width: 10em;
+  left: 40%;
+  margin-bottom: 1em !important;
+}
+.container{
+    background-image:linear-gradient(#580e8f, #9200ff);
+    text-align: center;
+    
+}
+.text{
+    margin-left: 0.5em !important;
+}
